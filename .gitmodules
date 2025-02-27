@@ -1,0 +1,6 @@
+[submodule "WeedID_Project/ultralytics"]
+	path = WeedID_Project/ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
+[submodule "ultralytics"]
+	path = ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
